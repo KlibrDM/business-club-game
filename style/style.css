@@ -770,6 +770,10 @@ body{
     background: #2b2b2b; 
 }
 
+::-webkit-scrollbar-corner {
+    background: #1d1d1d;
+}
+
 
 /*--MEDIA QUERIES--*/
 /* > 1700px */
