@@ -1,2 +1,6 @@
 # business-club-game
-A game about a businessman doing business
+Play in your browser: https://klibrdm.github.io/business-club-game/
+
+![screenshot](https://i.imgur.com/UVzjHT2.jpg)
+
+More details coming soon...
