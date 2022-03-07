@@ -279,6 +279,10 @@ body{
     color:#414141;
 }
 
+.chain-content{
+    overflow-x: auto;
+}
+
 .chain-title{
     margin-top: 15px;
     margin-bottom: 0px;
