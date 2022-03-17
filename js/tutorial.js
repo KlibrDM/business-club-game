@@ -18,7 +18,7 @@ function showTutorial(){
   let page = [];
   page[1] = `
             <div class="tutorial-image-text-group">
-              <img src="img/tutorial/johntutorial.jpg" draggable="false" class="tutorial-img tutorial-man-img"/>
+              <img src="img/tutorial/johntutorial.jpg" draggable="false" class="tutorial-img tutorial-man-img" alt="Tutorial introduction person"/>
               <div class="tutorial-group-text">
                 <p class="tutorial-text">Hello there entrepreneur!</p>
                 <p class="tutorial-text">Are you ready to join the Business Club?</p>
@@ -30,7 +30,7 @@ function showTutorial(){
             `
   page[2] = `
             <div class="tutorial-image-text-group">
-              <img src="img/tutorial/tutorial_2_1.jpg" draggable="false" class="tutorial-img tutorial-small-img"/>
+              <img src="img/tutorial/tutorial_2_1.jpg" draggable="false" alt="Tutorial business presentation" class="tutorial-img tutorial-small-img"/>
               <div class="tutorial-group-text">
                 <p class="tutorial-text">This is a business!</p>
               </div>
@@ -39,19 +39,19 @@ function showTutorial(){
             <p class="tutorial-text">Your business will start manufacturing when you click on its image. When you get tired of clicking (and you're also rich enough) you can hire a manager to automate the manufacturing process for your businesses.</p>
             `
   page[3] = `
-            <img src="img/tutorial/tutorial_3_1.jpg" draggable="false" class="tutorial-img tutorial-big-img"/>
+            <img src="img/tutorial/tutorial_3_1.jpg" draggable="false" alt="Tutorial business chain presentation" class="tutorial-img tutorial-big-img"/>
             <p class="tutorial-text">A series of businesses make a production chain.</p>
             <p class="tutorial-text">Setting up a production chain and selling the final output through a business (marked with $ sign in the name) can get you huge passive income.</p>
             `
   page[4] = `
-            <img src="img/tutorial/tutorial_4_1.jpg" draggable="false" class="tutorial-img tutorial-small-img"/>
+            <img src="img/tutorial/tutorial_4_1.jpg" draggable="false" alt="Tutorial milestone presentation" class="tutorial-img tutorial-small-img"/>
             <hr>
             <p class="tutorial-text">If you reach a milestone you will be rewarded with a bonus.</p>
             <p class="tutorial-text">Also look out for upgrades that you can purchase to increase your production.</p>
             <p class="tutorial-text">And make sure to sell the extra products that you have just laying around!</p>
             `
   page[5] = `
-            <img src="img/tutorial/tutorial_5_1.png" draggable="false" class="tutorial-img tutorial-big-img"/>
+            <img src="img/tutorial/tutorial_5_1.png" draggable="false" alt="Tutorial person leaving" class="tutorial-img tutorial-big-img"/>
             <hr>
             <p class="tutorial-text">Alright! Time for me to go.</p>
             <p class="tutorial-text">See you on the leaderboards!</p>
